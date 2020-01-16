@@ -2,4 +2,4 @@
 
 | S.N.  |  Examples                                                  | Source File                           |
 | ----- | ---------------------------------------------------------- | ------------------------------------- |
-| 1     | PUSH, POP and TOS operations of Stack                      | [LINK](examples/stack.c)             |
+| 1     | PUSH, POP and TOS operations of Stack                      | [LINK](examples/stack.c)              |
