@@ -1,3 +1,4 @@
-# ignore all files except .c
-examples/*
-!examples/**/*.c
+# ignore all binary files except files with extensions
+*
+!/**/
+!*.*
