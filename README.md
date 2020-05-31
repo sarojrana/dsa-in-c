@@ -1,4 +1,4 @@
-# Data Structure and Algorithm examples in C
+# Data Structure and Algorithm examples in C-Programming
 
 | S.N.  |  Examples                                                  | Source File                           |
 | ----- | ---------------------------------------------------------- | ------------------------------------- |
